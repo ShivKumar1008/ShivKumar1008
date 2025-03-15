@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShivKumar1008
-- 👀 I’m interested in java programing,linux, Ai And Testing.
+- 👀 I’m interested in Networkig,linux, Ai And Testing.
 - 🌱 I’m currently Persuing Bachler's Degree in Vivek group of collegs.
    Fun fact I'm a tech enthusiast who also enjoys traveling, doing sports, and reading in my free time.
   🤝 I’m looking for help with Expanding my expertise  gaining hands-on experience in cybersecurity-related projects.
